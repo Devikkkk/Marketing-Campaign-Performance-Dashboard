@@ -9,7 +9,7 @@
 
 ## 📌 Project Overview
 
-This project delivers a complete **end-to-end Marketing Campaign Performance Dashboard** built in Microsoft Excel. Raw multi-channel campaign data (500 records) is transformed into a fully interactive, stakeholder-ready reporting dashboard — covering KPI engineering, data cleaning, PivotTable analysis, and visual storytelling across 5 structured workbook sheets.
+This project delivers a complete **end-to-end Marketing Campaign Performance Dashboard** built in Microsoft Excel. Raw multi-channel campaign data (500 records) is transformed into a fully interactive, stakeholder-ready reporting dashboard covering KPI engineering, data cleaning, PivotTable analysis, and visual storytelling across 5 structured workbook sheets.
 
 The project demonstrates the full data analytics workflow from raw data ingestion to executive-level reporting, aligned to **PMO governance and stakeholder reporting standards**.
 
